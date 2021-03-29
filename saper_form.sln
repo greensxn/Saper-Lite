@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saper_form", "saper_form\saper_form.csproj", "{CBC263B0-4E03-4AE5-9428-0DDDDB13615B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC263B0-4E03-4AE5-9428-0DDDDB13615B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC263B0-4E03-4AE5-9428-0DDDDB13615B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC263B0-4E03-4AE5-9428-0DDDDB13615B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC263B0-4E03-4AE5-9428-0DDDDB13615B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3AC5B5A-BB24-46E9-B8B5-D6696739890F}
+	EndGlobalSection
+EndGlobal
